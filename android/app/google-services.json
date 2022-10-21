@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "842498492859",
+    "project_id": "grofsy",
+    "storage_bucket": "grofsy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842498492859:android:33292f479d0e6e9a2b9c9e",
+        "android_client_info": {
+          "package_name": "com.grofsy.store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842498492859-p53dtogmh0u2nhc0nncejaddi13p30q4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDe8LIVgyRs7uBFbWo3Wl6CcTSUITavYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842498492859-p53dtogmh0u2nhc0nncejaddi13p30q4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
